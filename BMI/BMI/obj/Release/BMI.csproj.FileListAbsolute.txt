@@ -1,0 +1,10 @@
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\bin\Release\BMI.exe.config
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\bin\Release\BMI.exe
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\bin\Release\BMI.pdb
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\obj\Release\BMI.csproj.AssemblyReference.cache
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\obj\Release\BMI.Form1.resources
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\obj\Release\BMI.Properties.Resources.resources
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\obj\Release\BMI.csproj.GenerateResource.cache
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\obj\Release\BMI.csproj.CoreCompileInputs.cache
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\obj\Release\BMI.exe
+E:\Koce\CV;;Projects;;Ideas\Projects\C# Forms\BMI\BMI\obj\Release\BMI.pdb
